@@ -20,11 +20,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thiagoferlima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferlima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=thiagoferlima&icon=0&color=0)](https://visitcount.itsvg.in)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiagoferlima&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide=issues&line_height=24)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
