@@ -6,33 +6,23 @@ Sou um entusiasta da tecnologia e estou focado em aprender e aprimorar minhas ha
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Sistemas Operacionais
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
 
 ### Desenvolvimento Web
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" />
 
 ### APIs
-![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge&logo=rest&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /> (para APIs REST)
 
 ### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-FF6F61?style=for-the-badge&logo=github-actions&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="CI/CD" width="50" height="50" />
 
 ### Ferramentas de Controle de Versão
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📂 Projetos Recentes
-- **[Nome do Projeto 1]**: Breve descrição do projeto.
-- **[Nome do Projeto 2]**: Breve descrição do projeto.
-
-## 🎯 Objetivos
-Atualmente, estou focado em:
-- Aprofundar meus conhecimentos em **ASP.NET Core** e **Angular**.
-- Aprender a orquestrar contêineres com **Kubernetes**.
-- Implementar pipelines de **CI/CD** para automatizar o processo de desenvolvimento e deploy.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
 
 ## 📫 Contato
 - **Email**: [seu-email@example.com]
