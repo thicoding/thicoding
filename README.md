@@ -22,10 +22,4 @@
 # 📊 GitHub Stats:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiagoferlima&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide=issues&line_height=24)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
----
-[![](https://visitcount.itsvg.in/api?id=thiagoferlima&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferlima&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas&exclude_repo=repo1,repo2)
