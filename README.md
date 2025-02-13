@@ -1,4 +1,3 @@
-# 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
@@ -19,6 +18,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# Git Hub stats:
+
 | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferlima&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas&exclude_repo=repo1,repo2) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiagoferlima&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide=issues&line_height=24) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
