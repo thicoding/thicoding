@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções eficientes e escaláveis para o mercado. Tenho experiência em desenvolvimento web, APIs e infraestrutura, buscando sempre aprimorar minhas habilidades e contribuir para projetos inovadores.
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferlima&layout=compact&theme=dark)
 ## 🛠️ Tecnologias e Ferramentas
 
 | **Linguagens** | **Frameworks** | **Sistemas Operacionais** | **DevOps** |
