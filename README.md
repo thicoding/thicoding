@@ -1,7 +1,7 @@
 # Olá, eu sou [Seu Nome]! 👋
 
-## Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções eficientes e escaláveis para o mercado. Tenho experiência em desenvolvimento web, APIs e infraestrutura, buscando sempre aprimorar minhas habilidades e contribuir para projetos inovadores.
+##Sobre Mim
+Sou desenvolvedor Fullstack DevOps com experiência em desenvolvimento web e infraestrutura. Tenho habilidades na construção de APIs, front-end, back-end e práticas de DevOps, sempre buscando aprimorar minhas competências e aplicar as melhores práticas de desenvolvimento e automação em projetos eficientes e escaláveis.
 
 ## 🛠️ Tecnologias e Ferramentas
 
