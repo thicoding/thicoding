@@ -9,3 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções efi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="25" height="25" /> C#  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" /> JavaScript  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25" /> TypeScript
+
+#### Sistemas Operacionais
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="25" height="25" /> Debian Linux  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="25" height="25" /> Windows
