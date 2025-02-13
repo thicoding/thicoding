@@ -6,5 +6,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções efi
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
-C#, TypeScript, JavaScript
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" /> C#
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" /> TypeScript
