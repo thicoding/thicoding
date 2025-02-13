@@ -1,26 +1,43 @@
 # Olá, eu sou [Seu Nome]! 👋
 
 ## Sobre Mim
-Sou um entusiasta da tecnologia e estou focado em aprender e aprimorar minhas habilidades em diversas áreas do desenvolvimento de software e infraestrutura. Aqui estão algumas das tecnologias e conceitos que estou explorando:
+Sou um entusiasta da tecnologia e estou sempre buscando aprimorar minhas habilidades em desenvolvimento de software e infraestrutura. Atualmente, estou focado em tecnologias web e DevOps.
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
+### 🔬 Linguagens de Programação
+- **TypeScript** ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+- **JavaScript** ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+- **HTML** ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+- **CSS** ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+- **C#** ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
 
-### Linguagens
-| **TypeScript**  | **JavaScript**  | **HTML**        | **CSS**         | **C#**          |
-|-----------------|-----------------|-----------------|-----------------|-----------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> |
+### 🌐 Desenvolvimento Web
+- **Front-end**: ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) Angular
+- **Back-end**: ![ASP.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg) ASP.NET Core
+- **APIs**: ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js
 
-### Frameworks e Stacks
-| **Front-end**        | **Back-end**         | **APIs**             | **DevOps**           | **Controle de Versão** |
-|----------------------|----------------------|----------------------|----------------------|-----------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="CI/CD" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" /> |
+### 🛠 DevOps e Infraestrutura
+- **Containers**: ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker
+- **Orquestração**: ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg) Kubernetes
+- **CI/CD**: ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub Actions
 
-## 📫 Contato
+### 📊 Controle de Versão
+- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git
+- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub
+
+---
+
+## 💌 Contato
 - **Email**: [seu-email@example.com]
 - **LinkedIn**: [linkedin.com/in/seu-perfil]
 - **Portfólio**: [seu-portfolio.com]
+
+---
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
