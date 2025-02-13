@@ -19,6 +19,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
+# Git Hub stats:
 | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferlima&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas&exclude_repo=repo1,repo2) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiagoferlima&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide=issues&line_height=24) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
