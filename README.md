@@ -26,4 +26,3 @@ Sou um profissional de tecnologia especializado no desenvolvimento de software e
 
 Estou sempre aberto para novas oportunidades e colaborações. Vamos conversar!
 
-
