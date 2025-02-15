@@ -20,6 +20,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=white)
+![IdentityServer4](https://img.shields.io/badge/IdentityServer4-%23FFFFFF.svg?style=flat&logo=identityserver4&logoColor=black)
 
 | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thicoding&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas&exclude_repo=repo1,repo2) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thicoding&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide=issues,contribs&line_height=24) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
