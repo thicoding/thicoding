@@ -15,5 +15,5 @@
 
 
 
-| ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thicoding&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Linguagens%20Mais%20Usadas&exclude_repo=repo1,repo2) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thicoding&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide=issues,contribs&line_height=24) |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thicoding&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=5C2D91&text_color=C9D1D9&icon_color=5C2D91)
+
