@@ -9,7 +9,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
-![Wakatime Stats](https://wakatime.com/badge/user/thicoding/graph.svg)
 
 
 
