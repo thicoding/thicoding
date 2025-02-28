@@ -8,7 +8,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-![WakaTime](https://wakatime.com/badge/user/thicoding/badge.svg)
+[Veja minhas estatísticas de codificação no Wakatime!](https://wakatime.com/@thicoding)
 
 
 
