@@ -9,7 +9,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
-![WakaTime](https://wakatime.com/badge/user/thicoding.svg)
+![Docker](https://img.shields.io/badge/Docker-4m%20(100%25)-blue)
+![YAML](https://img.shields.io/badge/YAML-0m%20(0%25)-gray)
+![TypeScript](https://img.shields.io/badge/TypeScript-5m%20(100%25)-blue)
+
 
 
 
