@@ -9,7 +9,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
-[Visite meu Wakatime](https://wakatime.com/@thicoding)
+![WakaTime](https://wakatime.com/badge/user/thicoding.svg)
+
 
 
 
